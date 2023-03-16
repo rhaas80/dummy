@@ -1,3 +1,1 @@
-# dummy
-
-Some test.
+More tests
